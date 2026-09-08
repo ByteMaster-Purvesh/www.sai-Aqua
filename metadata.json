@@ -1,0 +1,6 @@
+{
+  "name": "SAI AGENCY - Water Purifier & Solutions",
+  "description": "Premium water purifier, RO systems and water treatment products & professional services by SAI AGENCY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
